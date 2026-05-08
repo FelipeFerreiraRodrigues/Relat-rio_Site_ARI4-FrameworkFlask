@@ -44,4 +44,3 @@ Os serviços utilizaram o protocolo IP:
 ## Conclusão
 
 - A configuração da Máquina Virtual Ubuntu foi um sucesso. O acesso remoto via SSH e HTTP foram fundamentais para o funcionamento do sistema.
-- 
